@@ -2,11 +2,11 @@
 
 # 欢迎来到翻墙部落！
 
-打开天窗,听一听外面的声音...<A href="https://raw.githubusercontent.com/osurf/up/master/03.JPG">一分钟了解真相！(图片版)</A> | <A href="https://github.com/oGate2/oGate/blob/master/README.md">网门</A>
+打开天窗,听一听外面的声音... | <A href="https://github.com/oGate2/oGate/blob/master/README.md">网门</A>
 
 **本页固定短网址**：**https://git.io/urfos**  推荐使用ie，火狐，chrome等非国产浏览器访问！
 
-**请记录收藏本网页，里面的网址或软件失效时，我们会及时更新，欢迎广传！**
+**请记录收藏本网页，里面的网址或软件失效时，我们会及时更新，敬请广传,功德无量！**
 
 ----------------------------------------------------------------------
 
@@ -23,9 +23,9 @@
 
 【电脑版翻墙软件】  看动态网，晓天下事！
 
-**自由门** 自由门7.64版（2018.1月9日) [点击下载最新版](https://raw.githubusercontent.com/osurf/osurf/master/fg.rar)  
+**自由门** 自由门7.64版（2018.1月9日) [点击下载最新版](https://raw.githubusercontent.com/osurf/osurf/master/fg.rar)  [专业版下载](https://git.io/fgp)
 
-**无界浏览** 无界浏览18.01正式版 (2018年4月22日)[点击下载最新版](https://raw.githubusercontent.com/osurf/osurf/master/u.rar)
+**无界浏览** 无界浏览18.02正式版 (2018年4月24日)[点击下载最新版](https://raw.githubusercontent.com/osurf/osurf/master/u.rar)
 
 **无界火狐扩展**  2017-11-01 更新 [点击下载最新版](https://raw.githubusercontent.com/osurf/osurf/master/u1703.xpi)
 
@@ -35,9 +35,11 @@
 
 【安卓版翻墙软件】
 
-【★推荐★】**无界一点通**安卓版的翻墙软件, 适用于安卓手机/安卓机顶盒等安卓平台。
+【★推荐★】**无界一点通**安卓版的VPN翻墙软件, 适用于安卓手机/安卓机顶盒等安卓平台。
 
-2018-4月1日无界发布安卓版4.31 下载地址 [无界一点通下载](https://raw.githubusercontent.com/osurf/osurf/master/um.apk?23455634)
+2018-6月6日无界发布安卓版4.5 下载地址 [无界一点通下载](https://raw.githubusercontent.com/osurf/osurf/master/um.apk?4.5)
+
+**自由门安卓版** [下载地址](https://git.io/fgma)
 
 **新唐人安卓版 iNTD TV**  [点击下载最新版](https://raw.githubusercontent.com/osurf/osurf/master/iNTD_TV.apk)
 
@@ -52,13 +54,11 @@
 
 **●快退出共产党、共青团、少先队，保平安！**
 
-进化论是邪说，是凭空的遐想，骂人是猿是兽，无神论是撒旦邪党散布的弥天大谎，骗人的鬼话，毁了人的归宿！撒旦邪党建立了红色政权，别叫欺世红魔害自己，听信谎言将随红魔淘汰解体。
+进化论是邪说，是凭空的遐想，骂人是猿是兽，无神论是撒旦邪党散布的弥天大谎，骗人的鬼话，毁了人的归宿！撒旦邪党建立了红色政权，别叫欺世红魔害自己，听信谎言将随红魔淘汰解体。中共不等于中国！爱国不等于爱党！
 
 快声明退出党、团、队，抹去兽的印记,拥有美好未来！
 
-[提交网址1](http://t.cn/RIVviIP) 
-
-[提交网址2](http://t.cn/RTTyn0k) 
+[提交网址](http://t.cn/Rrv6Qez) 
 
 
 ---------------------------------------------------------
@@ -108,7 +108,7 @@
 
 **●友好链接**
 
-[网门oGate](https://github.com/ogate2/ogate)   | [无界网络](https://github.com/bannedbook/fanqiang/wiki#to-wjw) | [广传真相平台](https://github.com/bannedbook/fanqiang/wiki#gczxpt)| [大纪元新闻网](http://t.cn/Ri80wPo)
+[网门oGate](https://github.com/ogate2/ogate)   | [无界网络](https://github.com/bannedbook/fanqiang/wiki#to-wjw) | [广传真相平台](https://github.com/bannedbook/fanqiang/wiki#gczxpt)|
 
 QQ或360浏览器流氓拦截请放行。
 
